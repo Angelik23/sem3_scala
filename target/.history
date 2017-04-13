@@ -1,0 +1,17 @@
+sbt
+submit angelique.filleau@axa-groupsolutions.com 
+submit angelique.filleau@axa-groupsolutions.com GIKprZwWfiJ6KGqi
+run
+submit angelique.filleau@axa-groupsolutions.com submit angelique.filleau@axa-groupsolutions.com GIKprZwWfiJ6KGqi
+submit angelique.filleau@axa-groupsolutions.com GIKprZwWfiJ6KGqi
+compile
+test
+run
+compile
+test
+submit angelique.filleau@axa-groupsolutions.com GIKprZwWfiJ6KGqi
+compile
+submit angelique.filleau@axa-groupsolutions.com GIKprZwWfiJ6KGqi
+test
+compile
+test
